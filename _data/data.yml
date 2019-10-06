@@ -102,7 +102,7 @@ experiences:
 
 education:
     - degree: Administradora de Empresas
-      university: Universidad Cooperativa de Colombia
+      university: Universidad Cooperativa de Colombia, Pereira
       time: Agosto 2013 - Julio 2019
       details: |
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -120,7 +120,7 @@ education:
       details: |
 
     - degree: Bachiller en Tecnología Empresarial
-      university: Institución Educativa Libre
+      university: Institución Educativa Libre, Circasia
       time: Febrero 2000 - Noviembre 2005
       details: |
 
@@ -215,14 +215,8 @@ skills:
       - name: Microsoft Excel
         level: 90%
 
-      - name: World Office
+      - name: World Office (ERP)
         level: 90%
-
-      - name: Word
-        level: 90%
-
-      - name: PowerPoint
-        level: 70%
 
       - name: SIEBEL (CRM)
         level: 95%
@@ -235,6 +229,30 @@ skills:
       
       - name: FOMPLUS (ERP)
         level: 80%
+
+      - name: Microsoft Word
+        level: 90%
+
+      - name: Microsoft Power Point
+        level: 70%
+
+      - name: Trabajo en Equipo
+        level: 98%
+
+      - name: Resolución de problemas
+        level: 90%
+
+      - name: Trabajo bajo presión
+        level: 80%
+
+      - name: Sentido de Pertenencia
+        level: 100%
+
+      - name: Responsable
+        level: 100%
+
+
+
 
 
 references:
