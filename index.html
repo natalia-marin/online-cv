@@ -11,6 +11,10 @@ layout: default
   {% include education.html %}
 {% endunless %}
 
+{% unless site.data.data.sidebar.courses %}
+  {% include courses.html %}
+{% endunless %}
+
 {% include projects.html %}
 
 {% include publications.html %}
