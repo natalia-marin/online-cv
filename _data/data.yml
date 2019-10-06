@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
+    courses: False # set to False if you want courses in main section instead of in sidebar
 
     # Profile information
     name: Natalia Marín Martínez
@@ -126,7 +127,13 @@ education:
           - Bullet point
           - Bullet point
 
-
+courses:
+    - degree: Uso de Excel y Access para Desarrollo de Aplicaciones Empresariales
+      university: SENA (Virtual)
+      time: Julio 2016 - Agosto 2016
+      details: |
+        
+          
 #projects:
 #    title: Projects
 #    intro: >
