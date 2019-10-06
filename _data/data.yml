@@ -67,9 +67,12 @@ experiences:
       time: Septiembre 2019 - Presente
       company: Hotel BIO Habitat (Grupo empresarial BIO), Armenia
       details: |
-           - Asesoría de venta de inmuebles.
-           - Afiliar personal a los sistemas de seguridad social (EPS, AFP, ARL y CCF).
-           - Elaboración de la planilla PILA para pagos de seguridad social por internet.
+           - Elaboro nómina de personal de 40+ empleados.
+           - Realizo informe quincenal para pagos de 50+ proveedores.
+           - Preparo 100+ pagos mensuales en sucursal virtual, cheques y en efectivo.
+           - Registro movimientos contables en software (Egresos, Compras, Nómina, Caja Menor, Otros).
+           - Afilio personal a los sistemas de seguridad social (EPS, AFP, ARL y CCF).
+           - Construyo planillas PILA para pagos de seguridad social por internet.
 
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -88,40 +91,47 @@ experiences:
       time: Enero 2018 - Agosto 2019
       company: Constructora BIO S.A.S. (Grupo empresarial BIO), Armenia
       details: |
-           - Elaboración de contratos laborales basados en modelos aprobados por área jurídica. - Elaboración de nóminas para pagos de personal.
-           - Elaboración de egresos y pagos a proveedores en software contable.
-           - Manejo de software SIEWIN.
-           - Organización documental en general.
+           - Diligencié contratos laborales basados en modelos aprobados por área jurídica. 
+           - Preparé pagos quincenales en sucursal virtual, cheques y en efectivo.
+           - Registré movimientos contables en software (Egresos, Compras, Nómina, Caja Menor, Otros).
+           - Afilié personal a los sistemas de seguridad social (EPS, AFP, ARL y CCF).
+           - Construí planillas PILA para pagos de seguridad social por internet.
+           - Elaboré nóminas para pagos de 10+ empleados.
+           - Organicé documentación en general.
 
     - role: Asesora de Fidelización y Cartera
       time: Octubre 2015 - Marzo 2017
       company: Seguros Bolivar S.A., Montería
       details: |
-           - Identificación y depuración de inconsistencias en base de datos con más de 10.000 registros. 
-           - Recuperación (despeje) de cartera.
+           - Recuperé cartera de clientes a través de la identificación y depuración de inconsistencias en base de datos con más de 10.000 registros.
+           - Asesoré 1000+ clientes clarificando información de productos y garantizar su fidelización.
+           - Elaboré informes semanales en Excel para el análisis de producción, cancelaciones y fidelización de pólizas de seguro.
+           - Apoyé 20+ asesores en ventas de campo, suministrando información de bases de datos empresariales.
 
     - role: Administradora de Personal - Jefe de Compras
       time: Diciembre 2012 - Agosto 2015
       company: Berah Construcciones S.A.S., Montería
       details: |
-           - Identificación y depuración de inconsistencias en base de datos con más de 10.000 registros. 
-           - Recuperación (despeje) de cartera.
+           - Administré la facturación y cobro de alquiler de equipos de construcción de 30+ clientes.
+           - Gestioné el mantenimiento y reparación continua de 200+ equipos de construcción.
+           - Tramité compras con 20+ proveedores. (Incluyendo cotizaciones, órdenes de compra, remisiones y causación de facturas)
+           - Elaboré nóminas para pagos de 10+ empleados.
+           - Afilié personal y elaboré planilla PILA para el pago de seguridad social.
 
     - role: Cajera y Recepcionista
       time: Febrero 2009 - Marzo 2012
       company: Compañía BVG (Motel San Juan de Carolina), Armenia
       details: |
-           - Identificación y depuración de inconsistencias en base de datos con más de 10.000 registros. 
-           - Recuperación (despeje) de cartera.
+           - Gestioné el proceso de entrada, salida y facturación de 50+ huéspedes diarios.
+           - Administré las compras y el inventario de elementos en habitaciones, insumos de aseo, papelería y comestibles, con 10+ proveedores.
 
     - role: Cajera y Mesera
       time: Febrero 2008 - Agosto 2008
       company: Oeste Pizza, Armenia
       details: |
-           - Identificación y depuración de inconsistencias en base de datos con más de 10.000 registros. 
-           - Recuperación (despeje) de cartera.
-
-
+           - Serví a 40+ clientes diarios en uno de los mejores restaurantes de comida italiana de la ciudad.
+           - Administré la facturación y cobro de clientes.
+           
 education:
     - degree: Administradora de Empresas
       university: Universidad Cooperativa de Colombia, Pereira
@@ -237,7 +247,7 @@ skills:
       - name: Microsoft Excel
         level: 90%
 
-      - name: World Office (ERP)
+      - name: SIEWIN (ERP)
         level: 90%
 
       - name: SIEBEL (CRM)
@@ -272,9 +282,6 @@ skills:
 
       - name: Responsable
         level: 100%
-
-
-
 
 
 references:
