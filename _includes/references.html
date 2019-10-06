@@ -15,19 +15,21 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ reference.role }}</h3>
-        <div class="time">{{ reference.time }}</div>
+        <h3 class="reference-name">{{ reference.name }}</h3>
+        <!--<div class="time">{{ reference.time }}</div>-->
       </div><!--//upper-row-->
 
       <div class="company">{{ reference.company }}</div>
+      <div class="phone">{{ reference.phone }}</div>
+      <div class="reference-mail">{{ reference.mail }}</div>
 
     </div><!--//meta-->
 
-    {% if reference.details %}
+<!--    {% if reference.details %}
     <div class="details">
       {{ reference.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
+    </div><!--//details--
+    {% endif %} -->
 
   </div><!--//item-->
   {% endfor %}
