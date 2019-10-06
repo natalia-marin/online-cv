@@ -105,35 +105,83 @@ education:
       university: Universidad Cooperativa de Colombia
       time: Agosto 2013 - Julio 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
 
-    - degree: Bachiller en Tecnología
+    - degree: Técnico en Gestión de Proyectos
+      university: SENA (Armenia)
+      time: Febrero 2007 - Noviembre 2007
+      details: |
+
+    - degree: Bachiller en Tecnología Empresarial
       university: Institución Educativa Libre
       time: Febrero 2000 - Noviembre 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
 
 courses:
     - degree: Uso de Excel y Access para Desarrollo de Aplicaciones Empresariales
       university: SENA (Virtual)
-      time: Julio 2016 - Agosto 2016
+      time: 2016
       details: |
-        
-          
+
+courses:
+    - degree: Manejo de Microsoft Excel
+      university: SENA (Virtual)
+      time: 2015
+      details: |
+      
+courses:
+    - degree: Negociación en la Cobranza
+      university: CAMACOL & SENA (Montería)
+      time: 2012
+      details: |
+
+courses:
+    - degree: Seguridad Industrial y Salud Ocupacional
+      university: SENA (Virtual)
+      time: 2012
+      details: |
+
+courses:
+    - degree: Técnicas de Reserva y Recepción Hotelera
+      university: SENA (Virtual)
+      time: 2011
+      details: |
+
+courses:
+    - degree: Técnicas de Comunicación
+      university: SENA (Virtual)
+      time: 2011
+      details: |
+
+courses:
+    - degree: Facilitación de Servicios a Clientes Externos e Internos
+      university: SENA (Armenia)
+      time: 2011
+      details: |
+
+courses:
+    - degree: Atención y Servicio al Cliente
+      university: SENA (Armenia)
+      time: 2010
+      details: |
+
+courses:
+    - degree: Etiqueta y Protocolo Empresarial
+      university: SENA (Armenia)
+      time: 2010
+      details: |
+
+
+
+
 #projects:
 #    title: Projects
 #    intro: >
