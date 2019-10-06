@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -31,17 +31,14 @@ sidebar:
       - idiom: Inglés
         level: Básico
 
-      - idiom: 
-        level: 
-
     interests:
-      - item: Climbing
+      - item: Entrenamiento Funcional
         link:
 
-      - item: Snowboarding
+      - item: Leer
         link:
 
-      - item: Cooking
+      - item: Cocinar
         link:
 
 career-profile:
@@ -56,9 +53,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Administradora de Empresas
+      university: Universidad Cooperativa de Colombia
+      time: 2013 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +66,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachiller en Tecnología
+      university: Institución Educativa Libre
+      time: 2000 - 2005
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -175,26 +172,26 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades &amp; Competencias
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Microsoft Excel
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: World Office
+        level: 90%
 
       - name: Angular
-        level: 98%
+        level: 30%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 10%
 
       - name: Sketch & Photoshop
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Diseñado con <i class="fas fa-heart"></i> por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
