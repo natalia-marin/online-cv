@@ -102,7 +102,7 @@ experiences:
 education:
     - degree: Administradora de Empresas
       university: Universidad Cooperativa de Colombia
-      time: 2013 - 2019
+      time: Agosto 2013 - Julio 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -115,7 +115,7 @@ education:
 
     - degree: Bachiller en Tecnología
       university: Institución Educativa Libre
-      time: 2000 - 2005
+      time: Febrero 2000 - Noviembre 2005
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -171,20 +171,23 @@ skills:
       - name: World Office
         level: 90%
 
-      - name: Word y Power Point
+      - name: Word
         level: 90%
+
+      - name: PowerPoint
+        level: 70%
 
       - name: SIEBEL (CRM)
         level: 95%
 
-      - name: TRONADOR (Base de Datos)
+      - name: TRONADOR (BD)
         level: 95%
 
-      - name: SIMASOL (Atención servicios empresariales) 
+      - name: SIMASOL
         level: 95%
       
       - name: FOMPLUS (ERP)
-        level: 95%
+        level: 80%
 
 footer: >
     Diseñado con <i class="fas fa-heart"></i> por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
