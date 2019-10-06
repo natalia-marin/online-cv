@@ -131,49 +131,41 @@ courses:
       time: 2016
       details: |
 
-courses:
     - degree: Manejo de Microsoft Excel
       university: SENA (Virtual)
       time: 2015
       details: |
       
-courses:
     - degree: Negociación en la Cobranza
       university: CAMACOL & SENA (Montería)
       time: 2012
       details: |
 
-courses:
     - degree: Seguridad Industrial y Salud Ocupacional
       university: SENA (Virtual)
       time: 2012
       details: |
 
-courses:
     - degree: Técnicas de Reserva y Recepción Hotelera
       university: SENA (Virtual)
       time: 2011
       details: |
 
-courses:
     - degree: Técnicas de Comunicación
       university: SENA (Virtual)
       time: 2011
       details: |
 
-courses:
     - degree: Facilitación de Servicios a Clientes Externos e Internos
       university: SENA (Armenia)
       time: 2011
       details: |
 
-courses:
     - degree: Atención y Servicio al Cliente
       university: SENA (Armenia)
       time: 2010
       details: |
 
-courses:
     - degree: Etiqueta y Protocolo Empresarial
       university: SENA (Armenia)
       time: 2010
@@ -249,7 +241,29 @@ references:
     - name: Gloria Enith Orozco Ospina
       company: Grupo empresarial BIO, Armenia
       phone: (6) 731 26 69
-      mail: gloria@bio.com
-      
+      mail: administracion@constructorabio.com
+
+    - name: Carlos Holmes Dávila
+      company: Seguros Bolivar S.A., Montería
+      phone: (4) 782 35 82
+      mail: 
+
+    - name: Liliana Leonor Palomino
+      company: Berah Construcciones S.A.S., Montería
+      phone: 316 480 18 25
+      mail: 
+
+    - name: Ana Milena Galeano
+      company: Compañía BVG, Armenia
+      phone: (6) 731 30 10 - 312 207 24 39
+      mail: 
+
+    - name: Francisco Javier Pinzón
+      company: Oeste Pizza, Armenia
+      phone: (6) 749 43 91
+      mail: 
+
+
+
 footer: >
     Diseñado con <i class="fas fa-heart"></i> por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
