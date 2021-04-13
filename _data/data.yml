@@ -275,6 +275,21 @@ skills:
     title: Habilidades &amp; Competencias
 
     toolset:
+      - name: Trabajo en Equipo
+        level: 98%
+
+      - name: Liderazgo
+        level: 100%
+        
+      - name: Resolución de problemas
+        level: 90%
+        
+      - name: Sentido de Pertenencia
+        level: 100%
+
+      - name: Responsable
+        level: 100%
+      
       - name: Microsoft Excel
         level: 90%
 
@@ -299,20 +314,7 @@ skills:
       - name: Microsoft Power Point
         level: 80%
 
-      - name: Trabajo en Equipo
-        level: 98%
 
-      - name: Resolución de problemas
-        level: 90%
-
-      - name: Trabajo bajo presión
-        level: 90%
-
-      - name: Sentido de Pertenencia
-        level: 100%
-
-      - name: Responsable
-        level: 100%
 
 
 references:
